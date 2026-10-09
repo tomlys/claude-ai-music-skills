@@ -104,6 +104,9 @@ Word-like acronyms → phonetic (RICO → Ree-koh, NASA → Nah-sah)
 - Years: Use apostrophes ('93) or words (nineteen ninety-three)
 - Digits: Write out (four-oh-four, not 404)
 
+### Czech-Language Lyrics
+Keep diacritics and don't give native Czech words English-style respellings. Check ř/ě/ch/c, English-looking words, slang, numbers and first-syllable stress per [Czech Pronunciation](../../reference/suno/pronunciation-guide.md#czech-pronunciation). Run `check_homographs` on any English lines. For Czech lines this replaces the Names (3) and Numbers (5) rules above and overrides the Auto-Fix Rules below: no English-style respelling of Czech names (Jiří, Brno, Vltava); write numbers and abbreviations out in Czech (1984 → devatenáct set osmdesát čtyři, ČR → čé er, DJ → dýdžej), never '84 or F-B-I-style hyphenation.
+
 ---
 
 ## Pronunciation Guides
@@ -206,8 +209,8 @@ Line V2:5 -> "Reading Linux logs at 3AM"
 
 ### Always Auto-Fix
 - Tech terms (SQL → S-Q-L, Linux → Lin-ucks)
-- Common acronyms (FBI → F-B-I, GPS → G-P-S)
-- Numbers (1993 → '93 or nineteen ninety-three)
+- Common acronyms (FBI → F-B-I, GPS → G-P-S; Czech lines: ČR → čé er)
+- Numbers (1993 → '93 or nineteen ninety-three; Czech lines: devatenáct set devadesát tři, never '93)
 
 ### Ask User First
 - Homographs (live, read, lead, wind, tear)
