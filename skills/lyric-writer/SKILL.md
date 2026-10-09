@@ -41,6 +41,7 @@ When invoked with a concept:
 - **[examples.md](examples.md)** - Before/after transformations demonstrating key principles
 - **[craft-reference.md](craft-reference.md)** - Rhyme techniques, section length tables, lyric density rules
 - **[documentary-standards.md](documentary-standards.md)** - Legal standards for true crime/documentary lyrics
+- **[czech-craft.md](czech-craft.md)** - Czech-language lyrics (genre `czech-rap` or any Czech track): first-syllable stress on the beat, Czech rhyme grading, syllable counting, rap flow and register — apply it whenever lyrics are in Czech
 
 ---
 
@@ -177,6 +178,8 @@ Prosody is matching stressed syllables to strong musical beats.
 - High melody notes = emphasized words
 
 **Test**: Speak the lyric. If emphasis feels wrong, rewrite it.
+
+**Czech-language lyrics**: stress is always on the first syllable, and rhyme and syllable rules differ from English — see [czech-craft.md](czech-craft.md).
 
 ---
 

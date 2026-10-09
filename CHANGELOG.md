@@ -6,6 +6,9 @@ This project uses [Conventional Commits](https://conventionalcommits.org/) and [
 
 ## [Unreleased]
 
+### Added
+- **Czech-language rap support** — a `czech-rap` genre (`genres/czech-rap/README.md`, listed in `genres/INDEX.md`, with a `czech-rap` mastering preset mirroring trap/drill) covering Czech boom bap, trap, drill, cloud and melodic trap and the shared Czech/Slovak scene. A new `skills/lyric-writer/czech-craft.md` holds the rules English craft guidance gets wrong for Czech: fixed first-syllable stress and how to land stress groups on the beat, clitic placement, vowel length vs stress, syllabic r/l counting, a Czech rhyme grading scale (A multisyllabic/rich → D grammatical-ending rhymes, rejected), vícerýmy and assonance chains, bar density by tempo, flow patterns, register (spisovná vs obecná, with the artist's own override taking precedence), slang inflection, common AI failure modes and a per-bar QA checklist mapped onto the existing 13-point check. `reference/suno/pronunciation-guide.md` gains a `## Czech Pronunciation` section (keep diacritics, Style Box language lock, risky letters and clusters, stress drift, English slang spelling, numbers written out), every claim labelled verified / reported / untested. `skills/lyric-writer/SKILL.md` and `skills/pronunciation-specialist/SKILL.md` point to both.
+
 ## [0.102.0] - 2026-09-16
 
 ### Added

@@ -417,6 +417,13 @@ genres:
     target_lufs: -14.0
     cut_highmid: -1.0
     cut_highs: 0
+  czech-rap:
+    opus_safe: true
+    target_lufs: -14.0
+    cut_highmid: -1.0
+    cut_highs: 0
+    click_peak_ratio: 10.0
+    click_fail_count: 30
 
   # === R&B / Soul / Funk ===
   r&b:
